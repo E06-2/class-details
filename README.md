@@ -5,5 +5,5 @@ here you can find the class information
 
 ## Learners team:
 - Thomas 
-
 - karim Afettouche
+- Fotis Giselis
