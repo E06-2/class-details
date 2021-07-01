@@ -5,5 +5,6 @@ here you can find the class information
 
 ## Learners team:
 - Thomas 
+- Mohamad albaajouri
 
 
