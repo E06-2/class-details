@@ -6,4 +6,4 @@ here you can find the class information
 ## Learners team:
 - 
 
-hello this is Ahmet...
+# Ahmet Erdonmez
