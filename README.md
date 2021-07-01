@@ -5,6 +5,7 @@ here you can find the class information
 
 ## Learners team:
 - Thomas 
+- Mohamad albaajouri
 - karim Afettouche
 - Fotis Giselis
 - haythem
@@ -15,5 +16,6 @@ here you can find the class information
 - Denis
 - faden
 - Ahmet
+
 
 
