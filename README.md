@@ -4,6 +4,16 @@ here you can find the class information
 - Ahmad Osman
 
 ## Learners team:
-- 
+- Thomas 
+- karim Afettouche
+- Fotis Giselis
+- haythem
+- Eddison
+- Asieh
+- suhaib
+- walaa
+- Denis
+- faden
+- Ahmet
 
-# Ahmet Erdonmez
+
