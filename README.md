@@ -6,4 +6,5 @@ here you can find the class information
 ## Learners team:
 - Thomas 
 
+- Fotis Giselis
 
