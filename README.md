@@ -4,8 +4,8 @@ here you can find the class information
 - Ahmad Osman
 
 ## Learners team:
-
-
-- HESHAM 
-
-
+- Thomas 
+- karim Afettouche
+- Fotis Giselis
+- haythem
+- Hesham
