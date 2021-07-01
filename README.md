@@ -8,3 +8,4 @@ here you can find the class information
 - karim Afettouche
 - Fotis Giselis
 - haythem
+- Eddison
