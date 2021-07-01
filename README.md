@@ -4,8 +4,6 @@ here you can find the class information
 - Ahmad Osman
 
 ## Learners team:
-
-- Denis
 - Thomas 
 - karim Afettouche
 - Fotis Giselis
@@ -13,4 +11,6 @@ here you can find the class information
 - Eddison
 - Asieh
 - suhaib
+- walaa
+- Denis
 
